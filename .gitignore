@@ -1,0 +1,3 @@
+/video/*
+!/video/list.txt
+!/video/readme.txt
